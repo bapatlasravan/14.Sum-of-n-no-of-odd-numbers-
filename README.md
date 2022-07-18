@@ -1,0 +1,1 @@
+# 14.Sum-of-n-no-of-odd-numbers-
